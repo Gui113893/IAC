@@ -15,15 +15,13 @@
 ## Content
 
 - Introduction: general purpose computing systems. Microprocessors.
-
-– Information representation and basic operations
+- Information representation and basic operations
   - Representation of information: the bit as a unit of information. Integer data types – positive integers and signed integers; representations in sign and modulus, one's complement and two's complement: range of representation. Decimal-to-binary and binary-to-decimal conversion. Hexadecimal notation.
   - Binary Arithmetic: addition and subtraction.
   - Logical operations: AND, OR, NOT, Exclusive OR.
   - Representation of non-numeric information. The ASCII code.
-  - Floating point representation. Brief reference to the IEEE 754 Standard for floating point representation.
-    
-– Logic Circuits
+  - Floating point representation. Brief reference to the IEEE 754 Standard for floating point representation.   
+- Logic Circuits
   - Logic gates: NOT, OR, NOR, AND, NAND.
   - Basic combinatorial blocks: decoders, multiplexers, full-adder.
   - Basic information storage devices: R-S latch, Flip-Flop D. Registers.
@@ -33,25 +31,22 @@
   - Organization of the central memory of computing systems. Basic memory access cycles.
   - General traces of the evolution of computing systems architecture and implementation technologies.
   - The different levels of use of computing systems: application, high-level programming language, Assembly, operation system services.
-  - Function and structure. Architecture as the common basic functional view of a "family" of processors. Programming model and instruction repertoire.
-    
-– The MIPS architecture
+  - Function and structure. Architecture as the common basic functional view of a "family" of processors. Programming model and instruction repertoire.    
+- The MIPS architecture
   - Programming model. Instruction repertoire: the 3 main classes of instructions - processing (arithmetic and logical), information transfer and execution flow control.
   - Arithmetic and logical instructions in the MIPS architecture. Instruction codes.
   - Memory access instructions and addressing modes.
   - Translation of if and if…else decision structures to assembly: conditional and unconditional jump instructions.
   - Translation of flow control structures: for, while and do...while. Sequential access to array elements.
   - Procedures: invocation and return. The problem of passing parameters. Stack usage.
-  - Conventions for safeguarding the content of records.
-    
-– The assembler and the “assembling” process
+  - Conventions for safeguarding the content of records.  
+- The assembler and the “assembling” process
   - Assembly language.
     - Instrutions
     - Directives
     - Examples
-  - The process of translating assembly programs into executable binary.
-    
-– Communication with the outside world: data input and output
+  - The process of translating assembly programs into executable binary.   
+- Communication with the outside world: data input and output
   - Memory-mapped vs. memory-mapped inputs and outputs specific instructions for data input and output.
   - Inputs/Outputs under interruption. The interrupt system. Programming under interruption.
 
