@@ -4,7 +4,6 @@
 ### Final Grade: 18/20
 
 ## Objective
-
 -  Know the ways in which information is represented in digital computers, with emphasis on the representation of numerical information and basic arithmetic operations;
 -  Know the logical operations and the electronic components that carry them out;
 -  Understand the functioning of memory systems and the functioning of the main information storage devices;
@@ -13,7 +12,6 @@
 -  Acquire familiarity with processor architecture through assembly programming.
 
 ## Content
-
 - Introduction: general purpose computing systems. Microprocessors.
 - Information representation and basic operations
   - Representation of information: the bit as a unit of information. Integer data types – positive integers and signed integers; representations in sign and modulus, one's complement and two's complement: range of representation. Decimal-to-binary and binary-to-decimal conversion. Hexadecimal notation.
